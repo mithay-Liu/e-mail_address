@@ -1,0 +1,122 @@
+{
+  "汽车公司": {
+    "福特": "customer@ford.com",
+    "通用汽车": "contactus@gm.com",
+    "丰田": "customerrelations@toyota.com",
+    "本田": "customer.relations@honda.com",
+    "特斯拉": "customer.support@tesla.com",
+    "宝马": "customer.service@bmwusa.com",
+    "奔驰": "customer.service@mbusa.com",
+    "奥迪": "customer.experience@audi.com",
+    "雷克萨斯": "contact@lexus.com",
+    "日产": "nissan_customer_support@nissan-usa.com"
+  },
+  "手机公司": {
+    "苹果": "contactus@apple.com",
+    "三星": "support@samsung.com",
+    "谷歌": "support@google.com",
+    "华为": "support@huawei.com",
+    "小米": "support@mi.com",
+    "一加": "support@oneplus.com",
+    "索尼": "support@sony.com",
+    "LG": "support@lg.com",
+    "摩托罗拉": "support@motorola.com",
+    "诺基亚": "support@nokia.com"
+  },
+  "背包和户外用品": {
+    "North Face": "customer_service@thenorthface.com",
+    "Patagonia": "customer_service@patagonia.com",
+    "Columbia": "customer_service@columbia.com",
+    "Osprey": "customer_service@osprey.com",
+    "Deuter": "info@deuter.com",
+    "Gregory": "customer_service@gregorypacks.com",
+    "CamelBak": "customerservice@camelbak.com",
+    "REI": "customer_service@rei.com",
+    "JanSport": "customer_service@jansport.com",
+    "Timbuk2": "customerservice@timbuk2.com"
+  },
+  "会员服务和订阅": {
+    "推特会员": "support@twitter.com",
+    "Spotify": "support@spotify.com",
+    "Netflix": "support@netflix.com",
+    "Hulu": "support@hulu.com",
+    "Amazon Prime": "support@amazon.com",
+    "Apple Music": "support@apple.com",
+    "YouTube Premium": "support@youtube.com",
+    "Disney+": "support@disneyplus.com",
+    "HBO Max": "support@hbomax.com",
+    "Audible": "support@audible.com"
+  },
+  "大型零售商和电商": {
+    "亚马逊": "support@amazon.com",
+    "eBay": "support@ebay.com",
+    "Walmart": "help@walmart.com",
+    "Target": "guest.relations@target.com",
+    "Best Buy": "support@bestbuy.com",
+    "Costco": "customerservice@costco.com",
+    "Home Depot": "customer_care@homedepot.com",
+    "Lowe's": "customer_care@lowes.com",
+    "Macy's": "customer_service@macys.com",
+    "Kohl's": "customer_service@kohls.com"
+  },
+  "技术和软件公司": {
+    "微软": "support@microsoft.com",
+    "Adobe": "support@adobe.com",
+    "Oracle": "support@oracle.com",
+    "IBM": "support@ibm.com",
+    "Intel": "support@intel.com",
+    "AMD": "support@amd.com",
+    "Nvidia": "support@nvidia.com",
+    "Cisco": "support@cisco.com",
+    "Salesforce": "support@salesforce.com",
+    "SAP": "support@sap.com"
+  },
+  "家用电器和电子产品": {
+    "戴森": "support@dyson.com",
+    "KitchenAid": "support@kitchenaid.com",
+    "GE Appliances": "support@geappliances.com",
+    "Whirlpool": "support@whirlpool.com",
+    "LG Electronics": "support@lge.com",
+    "Samsung Electronics": "support@samsung.com",
+    "Sony Electronics": "support@sony.com",
+    "Panasonic": "support@panasonic.com",
+    "Philips": "support@philips.com",
+    "Sharp": "support@sharpusa.com"
+  },
+  "服装和时尚品牌": {
+    "Nike": "customer_service@nike.com",
+    "Adidas": "customer_service@adidas.com",
+    "Under Armour": "customer_service@underarmour.com",
+    "Puma": "customer_service@puma.com",
+    "Lululemon": "customer_service@lululemon.com",
+    "Levi's": "customer_service@levi.com",
+    "Gap": "customer_service@gap.com",
+    "Zara": "customer_service@zara.com",
+    "H&M": "customer_service@hm.com",
+    "Uniqlo": "customer_service@uniqlo.com"
+  },
+  "餐饮和食品": {
+    "星巴克": "customer_service@starbucks.com",
+    "麦当劳": "contact@mcdonalds.com",
+    "肯德基": "support@kfc.com",
+    "Subway": "support@subway.com",
+    "Burger King": "support@burgerking.com",
+    "Taco Bell": "support@tacobell.com",
+    "Pizza Hut": "support@pizzahut.com",
+    "Domino's": "support@dominos.com",
+    "Chipotle": "support@chipotle.com",
+    "Dunkin' Donuts": "support@dunkindonuts.com"
+  },
+  "旅游和住宿": {
+    "Airbnb": "support@airbnb.com",
+    "Booking.com": "customer.service@booking.com",
+    "Expedia": "support@expedia.com",
+    "Marriott": "customer.service@marriott.com",
+    "Hilton": "customer.service@hilton.com",
+    "Hyatt": "customer.service@hyatt.com",
+    "American Airlines": "customer.service@aa.com",
+    "Delta Airlines": "customer.service@delta.com",
+    "United Airlines": "customer.service@united.com",
+    "Southwest Airlines": "customer.service@southwest.com"
+  }
+}
